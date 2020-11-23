@@ -47,7 +47,7 @@
 }
 
 body {
-    font-family: 'Cabin', sans-serif;
+/*     font-family: 'Cabin', sans-serif; */
     background-color: #fff;
 }
 
@@ -794,7 +794,7 @@ p {
 
 .counter-area > h3 {
     color: #ffffff;
-    font-size: 25px;
+    font-size: 22px;
     margin-bottom: 0;
     line-height: 1;
 }
