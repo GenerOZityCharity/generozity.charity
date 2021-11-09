@@ -223,9 +223,9 @@ a:active {
     transition-duration: 500ms;
 }
 
-li {
+/* li {
     list-style: none;
-}
+} */
 
 p {
     color: #726a84;
